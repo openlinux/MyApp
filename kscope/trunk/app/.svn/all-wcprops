@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/kscope/!svn/ver/204/trunk/app
+END
+app.pro
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/kscope/!svn/ver/151/trunk/app/app.pro
+END
+configenginesdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/kscope/!svn/ver/151/trunk/app/configenginesdialog.cpp
+END
+editorcontainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/kscope/!svn/ver/196/trunk/app/editorcontainer.h
+END
+locationhistory.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/kscope/!svn/ver/151/trunk/app/locationhistory.h
+END
+settings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/kscope/!svn/ver/123/trunk/app/settings.cpp
+END
+openprojectdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/132/trunk/app/openprojectdialog.ui
+END
+application.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/kscope/!svn/ver/151/trunk/app/application.cpp
+END
+actions.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/kscope/!svn/ver/145/trunk/app/actions.h
+END
+queryresultdock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/133/trunk/app/queryresultdock.cpp
+END
+queryview.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/kscope/!svn/ver/151/trunk/app/queryview.h
+END
+projectmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/kscope/!svn/ver/189/trunk/app/projectmanager.h
+END
+openprojectdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/122/trunk/app/openprojectdialog.h
+END
+projectfilesdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/93/trunk/app/projectfilesdialog.h
+END
+stackwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/kscope/!svn/ver/125/trunk/app/stackwidget.h
+END
+queryresultdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/93/trunk/app/queryresultdialog.ui
+END
+projectdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/kscope/!svn/ver/165/trunk/app/projectdialog.ui
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/kscope/!svn/ver/183/trunk/app/mainwindow.h
+END
+session.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/kscope/!svn/ver/151/trunk/app/session.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/kscope/!svn/ver/93/trunk/app/main.cpp
+END
+configenginesdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/kscope/!svn/ver/93/trunk/app/configenginesdialog.ui
+END
+editorcontainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/196/trunk/app/editorcontainer.cpp
+END
+queryresultdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/93/trunk/app/queryresultdialog.h
+END
+querydialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/kscope/!svn/ver/151/trunk/app/querydialog.h
+END
+projectdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/kscope/!svn/ver/151/trunk/app/projectdialog.h
+END
+strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/kscope/!svn/ver/93/trunk/app/strings.h
+END
+actions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/kscope/!svn/ver/204/trunk/app/actions.cpp
+END
+addfilesdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/kscope/!svn/ver/93/trunk/app/addfilesdialog.h
+END
+projectmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/189/trunk/app/projectmanager.cpp
+END
+configenginesdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/93/trunk/app/configenginesdialog.h
+END
+projectfilesdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/93/trunk/app/projectfilesdialog.ui
+END
+settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/kscope/!svn/ver/120/trunk/app/settings.h
+END
+openprojectdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/kscope/!svn/ver/156/trunk/app/openprojectdialog.cpp
+END
+application.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/kscope/!svn/ver/120/trunk/app/application.h
+END
+projectfilesdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/kscope/!svn/ver/151/trunk/app/projectfilesdialog.cpp
+END
+stackwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/kscope/!svn/ver/125/trunk/app/stackwidget.cpp
+END
+queryresultdock.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/kscope/!svn/ver/125/trunk/app/queryresultdock.h
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/kscope/!svn/ver/191/trunk/app/mainwindow.cpp
+END
+querydialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/kscope/!svn/ver/128/trunk/app/querydialog.ui
+END
+app.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/kscope/!svn/ver/93/trunk/app/app.qrc
+END
+queryresultdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/93/trunk/app/queryresultdialog.cpp
+END
+querydialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/kscope/!svn/ver/162/trunk/app/querydialog.cpp
+END
+projectdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/kscope/!svn/ver/93/trunk/app/projectdialog.cpp
+END
+addfilesdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/kscope/!svn/ver/93/trunk/app/addfilesdialog.ui
+END
+session.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/kscope/!svn/ver/151/trunk/app/session.h
+END
+buildprogress.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/kscope/!svn/ver/151/trunk/app/buildprogress.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/kscope/!svn/ver/194/trunk/app/version.h
+END
+addfilesdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/151/trunk/app/addfilesdialog.cpp
+END
+stackpage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/kscope/!svn/ver/93/trunk/app/stackpage.ui
+END

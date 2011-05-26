@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/sort
+END
+os_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/sort/os_win.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/sort/config.h.in
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/sort/file.c
+END
+unsorted.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/sort/unsorted.txt
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/sort/internal.h
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/sort/cache.c
+END
+os_posix.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/sort/os_posix.c
+END
+extsort.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/sort/extsort.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/sort/CMakeLists.txt
+END
+page.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/sort/page.c
+END
+sort.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/sort/sort.h
+END

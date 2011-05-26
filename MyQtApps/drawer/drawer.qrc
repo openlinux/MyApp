@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/3.png</file>
+        <file>images/4.png</file>
+        <file>images/bb.png</file>
+        <file>images/hh.png</file>
+        <file>images/jj.png</file>
+        <file>images/nn.png</file>
+        <file>images/Thumbs.db</file>
+        <file>images/yy.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core
+END
+progressbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/progressbar.h
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/parser.h
+END
+queryview.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/queryview.h
+END
+core.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/core.pro
+END
+locationview.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/locationview.h
+END
+locationtreemodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/locationtreemodel.cpp
+END
+textfilterdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/textfilterdialog.cpp
+END
+statemachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/statemachine.h
+END
+codebase.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/codebase.h
+END
+engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/engine.h
+END
+process.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/process.h
+END
+treeitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/treeitem.h
+END
+progressbar.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/progressbar.ui
+END
+locationlistmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/locationlistmodel.cpp
+END
+progressbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/progressbar.cpp
+END
+filefilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/filefilter.h
+END
+codebasemodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/codebasemodel.h
+END
+filescanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/filescanner.h
+END
+locationmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/locationmodel.h
+END
+queryview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/queryview.cpp
+END
+projectconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/projectconfig.h
+END
+locationview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/locationview.cpp
+END
+exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/exception.h
+END
+textfilterdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/textfilterdialog.ui
+END
+project.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/project.h
+END
+process.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/process.cpp
+END
+locationtreemodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/locationtreemodel.h
+END
+textfilterdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/textfilterdialog.h
+END
+codebasemodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/codebasemodel.cpp
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/globals.h
+END
+locationmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/locationmodel.cpp
+END
+filescanner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/filescanner.cpp
+END
+locationlistmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/locationlistmodel.h
+END
+core.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/core/core.qrc
+END

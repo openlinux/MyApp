@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/editor
+END
+configdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/editor/configdialog.ui
+END
+findtextdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/editor/findtextdialog.ui
+END
+lexerstylemodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/editor/lexerstylemodel.cpp
+END
+editor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/editor/editor.pro
+END
+fileiothread.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/editor/fileiothread.h
+END
+config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/editor/config.cpp
+END
+configdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/editor/configdialog.cpp
+END
+findtextdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/editor/findtextdialog.cpp
+END
+editor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/editor/editor.cpp
+END
+lexerstylemodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/editor/lexerstylemodel.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/editor/config.h
+END
+configdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/editor/configdialog.h
+END
+findtextdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/editor/findtextdialog.h
+END
+editor.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/161/tags/V_1_9_2/editor/editor.h
+END

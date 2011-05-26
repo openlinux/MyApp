@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/kscope/!svn/ver/196/trunk/editor
+END
+lexerstyledelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/kscope/!svn/ver/163/trunk/editor/lexerstyledelegate.h
+END
+findtextdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/150/trunk/editor/findtextdialog.ui
+END
+actions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/kscope/!svn/ver/196/trunk/editor/actions.cpp
+END
+fileiothread.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/kscope/!svn/ver/150/trunk/editor/fileiothread.h
+END
+editor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/kscope/!svn/ver/184/trunk/editor/editor.pro
+END
+findtextdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/kscope/!svn/ver/150/trunk/editor/findtextdialog.cpp
+END
+config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/kscope/!svn/ver/185/trunk/editor/config.cpp
+END
+actions.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/kscope/!svn/ver/196/trunk/editor/actions.h
+END
+findtextdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/150/trunk/editor/findtextdialog.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/kscope/!svn/ver/185/trunk/editor/config.h
+END
+configdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/185/trunk/editor/configdialog.ui
+END
+lexerstylemodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/kscope/!svn/ver/171/trunk/editor/lexerstylemodel.cpp
+END
+viscintilla.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/186/trunk/editor/viscintilla.cpp
+END
+configdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/185/trunk/editor/configdialog.cpp
+END
+editor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/kscope/!svn/ver/196/trunk/editor/editor.cpp
+END
+lexerstylemodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/171/trunk/editor/lexerstylemodel.h
+END
+viscintilla.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/kscope/!svn/ver/186/trunk/editor/viscintilla.h
+END
+configdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/kscope/!svn/ver/171/trunk/editor/configdialog.h
+END
+editor.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/kscope/!svn/ver/184/trunk/editor/editor.h
+END

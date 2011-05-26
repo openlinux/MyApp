@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>src/add.png</file>
+        <file>src/mesage.png</file>
+        <file>src/open.png</file>
+        <file>src/reload.png</file>
+        <file>src/save.png</file>
+        <file>src/stop.png</file>
+        <file>src/clearbytes.png</file>
+        <file>src/time.png</file>
+        <file>src/loadfile.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>src/cleanport.png</file>
+        <file>src/write2file.png</file>
+        <file>src/logo.png</file>
+    </qresource>
+</RCC>

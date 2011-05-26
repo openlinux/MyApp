@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/kscope/!svn/ver/189/trunk/cscope
+END
+engineconfigwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/kscope/!svn/ver/93/trunk/cscope/engineconfigwidget.cpp
+END
+ctags.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/kscope/!svn/ver/151/trunk/cscope/ctags.cpp
+END
+files.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/kscope/!svn/ver/151/trunk/cscope/files.cpp
+END
+engineconfigwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/kscope/!svn/ver/93/trunk/cscope/engineconfigwidget.h
+END
+configwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/kscope/!svn/ver/93/trunk/cscope/configwidget.ui
+END
+ctags.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/kscope/!svn/ver/179/trunk/cscope/ctags.h
+END
+files.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/kscope/!svn/ver/151/trunk/cscope/files.h
+END
+configwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/93/trunk/cscope/configwidget.cpp
+END
+cscope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/kscope/!svn/ver/151/trunk/cscope/cscope.cpp
+END
+configwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/kscope/!svn/ver/93/trunk/cscope/configwidget.h
+END
+cscope.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/kscope/!svn/ver/151/trunk/cscope/cscope.h
+END
+managedproject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/kscope/!svn/ver/189/trunk/cscope/managedproject.cpp
+END
+crossref.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/kscope/!svn/ver/189/trunk/cscope/crossref.cpp
+END
+managedproject.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/189/trunk/cscope/managedproject.h
+END
+engineconfigwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/kscope/!svn/ver/93/trunk/cscope/engineconfigwidget.ui
+END
+cscope.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/kscope/!svn/ver/151/trunk/cscope/cscope.pro
+END
+crossref.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/kscope/!svn/ver/151/trunk/cscope/crossref.h
+END

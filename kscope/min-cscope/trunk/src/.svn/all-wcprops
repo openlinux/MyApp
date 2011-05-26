@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/kscope/!svn/ver/203/min-cscope/trunk/src
+END
+mygetenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/mygetenv.c
+END
+scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/scanner.h
+END
+alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/alloc.h
+END
+build.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/201/min-cscope/trunk/src/build.c
+END
+history.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/history.c
+END
+scanner.l
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/scanner.l
+END
+build.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/201/min-cscope/trunk/src/build.h
+END
+display.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/display.c
+END
+vpaccess.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/vpaccess.c
+END
+basename.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/basename.c
+END
+.indent.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/.indent.pro
+END
+vpfopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/vpfopen.c
+END
+logdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/logdir.c
+END
+gmacs.ml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/gmacs.ml
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/constants.h
+END
+invlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/invlib.c
+END
+invlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/invlib.h
+END
+emacs.e
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/emacs.e
+END
+compath.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/compath.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/CMakeLists.txt
+END
+input.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/input.c
+END
+global.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/global.h
+END
+vpopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/vpopen.c
+END
+fscanner.l
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/fscanner.l
+END
+lookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/lookup.c
+END
+library.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/library.h
+END
+vpinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/vpinit.c
+END
+lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/lookup.h
+END
+command.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/command.c
+END
+dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/dir.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/config.h.in
+END
+find.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/find.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/main.c
+END
+exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/kscope/!svn/ver/199/min-cscope/trunk/src/exec.c
+END
+edit.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/edit.c
+END
+crossref.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/kscope/!svn/ver/202/min-cscope/trunk/src/crossref.c
+END
+mypopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/mypopen.c
+END
+help.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/help.c
+END
+egrep.y
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/egrep.y
+END
+mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/mouse.c
+END
+alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/alloc.c
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kscope/!svn/ver/203/min-cscope/trunk/src/version.h
+END
+vp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/kscope/!svn/ver/197/min-cscope/trunk/src/vp.h
+END
